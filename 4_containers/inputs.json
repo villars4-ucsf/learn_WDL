@@ -1,0 +1,4 @@
+{
+  "BinReadsWithCutAdapt.sequencing_library": ["test_S100_R1_001.fastq.gz","test_S100_R2_001.fastq.gz"],
+  "BinReadsWithCutAdapt.primer_set": ["v3_fwd_primers_1B_anchored.fasta", "v3_rev_primers_1B_anchored.fasta"]
+}
