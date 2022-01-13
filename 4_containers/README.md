@@ -1,0 +1,1 @@
+/usr/lib/jvm/jre-17-openjdk/bin/java -jar -Dconfig.file=/wynton/home/eppicenter/shared/cromwell_configs/cromwell-sge_and_singularity.conf /wynton/home/eppicenter/shared/tools/cromwell-72.jar run cutadapt_in_container.wdl -i inputs.json
