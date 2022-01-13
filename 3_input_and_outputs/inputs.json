@@ -1,0 +1,5 @@
+{
+  "AnalyzeSequencingLibrary.library_forward_reads": "test_S100_R1_001.fastq.gz",
+  "AnalyzeSequencingLibrary.library_reverse_reads": "test_S100_R2_001.fastq.gz",
+  "AnalyzeSequencingLibrary.sequencing_library": ["test_S100_R1_001.fastq.gz","test_S100_R2_001.fastq.gz"]
+}
